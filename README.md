@@ -21,6 +21,6 @@ NOTE:
 No guarantees of responsive design (i.e., the design fitting perfectly to your specific phone's screen is not exactly guaranteed. It may work in most cases with occassional alphabet or word drops)
 
 GitHub Account of Fellow Developers who I built this project with:
-@AshwathiNair08
+@ArnavGautamGit
 @Khushi227
 Both of them must be credited equally as I am.
