@@ -4,11 +4,9 @@ This is an app-demo showcase in my college in a subject based around building a 
 ### Screenshots of our App loading UI
 
 <img width="336" alt="image (4)" src="https://github.com/user-attachments/assets/95d6f4ff-805f-4430-af70-db85788ec94f" />
-
-Fig 1: Welcome screen
-
 <img width="336" alt="image (5)" src="https://github.com/user-attachments/assets/fff26b36-77e8-4180-8f93-e3c188ebea72" />
 
+Fig 1: Welcome screen
 Fig 2: Sign-up Page
 
 <img width="336" alt="image (6)" src="https://github.com/user-attachments/assets/0297d669-d809-4df4-9375-fe729300d181" />
