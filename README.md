@@ -4,27 +4,44 @@ This is an app-demo showcase in my college in a subject based around building a 
 ### Screenshots of our App loading UI
 
 <img width="118" alt="image (4)" src="https://github.com/user-attachments/assets/95d6f4ff-805f-4430-af70-db85788ec94f" />
+
 Fig 1: Welcome screen
 
 <img width="118" alt="image (5)" src="https://github.com/user-attachments/assets/fff26b36-77e8-4180-8f93-e3c188ebea72" />
+
 Fig 2: Sign-up Page
 
 <img width="118" alt="image (6)" src="https://github.com/user-attachments/assets/0297d669-d809-4df4-9375-fe729300d181" />
+
 Fig 3: Login Page
 
 <img width="118" alt="image (7)" src="https://github.com/user-attachments/assets/39e26587-31f4-4b18-b673-fe84dc38924c" />
+
 Fig 4: Onboarding Screen 1
 
 <img width="118" alt="image (8)" src="https://github.com/user-attachments/assets/a5a8ddf9-fe95-4ccd-8067-6eb5aed8c8c4" />
+
 Fig 5: Onboarding Screen 2
 
 <img width="118" alt="image (9)" src="https://github.com/user-attachments/assets/b0eec120-6596-4594-a15b-b1de66040cbf" />
+
 Fig 6: Onboarding Screen 3
 
 <img width="118" alt="image (16)" src="https://github.com/user-attachments/assets/a625c3ce-d9b2-4d19-8c9a-c7f26c6ad0d4" />
+
+Fig 7: Femail Health Details
+
 <img width="118" alt="image (17)" src="https://github.com/user-attachments/assets/d336cebc-fd9f-45a8-9a54-aa865aae0d8d" />
+
+Fig 8: Body Measurements
+
 <img width="118" alt="image (18)" src="https://github.com/user-attachments/assets/1d1da369-8f78-438a-8ef1-d7f26a827581" />
+
+Fig 9: Selecting organs for focus on related ailments
+
 <img width="118" alt="image (19)" src="https://github.com/user-attachments/assets/8690c7df-019c-45b6-a14f-f95319aecea5" />
+
+Fig 10: Questionnare for Vaata, Pitta, Kapha Levels
 
 ### Pre-requisites to view the app (Things you would need before viewing)
 You would need the following:
